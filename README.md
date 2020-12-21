@@ -1,5 +1,6 @@
 # HandWritten_OCR
 Handwritten Character Recognition using NIST dataset
+
 Need - Currently available OCR Engines do not work correctly identify handwritten characters effectivetly. The necessity for a free and open source package that can be implemented easily within another application lead to the development of this project.
 ## About the dataset
 https://www.kaggle.com/tanay27/handwrittennist

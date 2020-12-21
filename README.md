@@ -33,10 +33,11 @@ Here we have used Histogram Splitting to acheive character level segmentation.
 ![alt text](https://github.com/Tanay-27/HandWritten_OCR/blob/main/v.JPG)
 
 These are the sum of values as mentioned along row or column. It is clearly observed that for each line and each word in a line there is a clear drop and absence. 
-Using this the splits are made.
+Using this the splits are made. 
 #### Histogram Splitting
 In this technique, the sum of pixel values in each column is taken, whenever the character break exists, the sum of pixels of that area will be approximately 0.
 This with careful tuning is being used for our purpose here.
+As seen from the above images, the ratio of width wrt height is made to split the segmented ROIs into words and subsequently characters. This needs to be done extremely carefully.
 
 ## Character Recognition
 A CNN has been made and trained on the NIST dataset which is a set of handwritten characters, only a part of it has been taken for use as as a whole it has huge amount of samples for each class. Due to computing limtations only a part of the daqtaset is considered, however this gives decent accuracy.

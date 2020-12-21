@@ -1,6 +1,6 @@
 # HandWritten_OCR
 Handwritten Character Recognition using NIST dataset
-
+Need - Currently available OCR Engines do not work correctly identify handwritten characters effectivetly. The necessity for a free and open source package that can be implemented easily within another application lead to the development of this project.
 ## About the dataset
 https://www.kaggle.com/tanay27/handwrittennist
 
@@ -42,7 +42,16 @@ As seen from the above images, the ratio of width wrt height is made to split th
 ## Character Recognition
 A CNN has been made and trained on the NIST dataset which is a set of handwritten characters, only a part of it has been taken for use as as a whole it has huge amount of samples for each class. Due to computing limtations only a part of the daqtaset is considered, however this gives decent accuracy.
 
+Credits-
+Vassilis Katsouros and Vassilis Papavassiliou, SEGMENTATION OF HANDWRITTEN DOCUMENT IMAGES INTO TEXT LINES, 
+Institute for Language and Speech Processing/R.C. “Athena” Greece
 
+Agrawal, N., & Kaur, A. (2018), AN ALGORITHMIC APPROACH FOR TEXT RECOGNITION FROM PRINTED/TYPED TEXT IMAGES,
+2018 8th International Conference on Cloud Computing, Data Science & Engineering (Confluence)
+
+Text Line Segmentation Based on Morphology and Histogram Projection 
+Rodolfo P. dos Santos, Gabriela S. Clemente, Tsang Ing Ren and George D.C. Calvalcanti Center of Informatics, 
+Federal University of Pernambuco Recife, PE, Brazil - www.cin.ufpe.br/~viisar
 
 #Pls Note 
 The repository is being updated and hence certain files have been taken down will be updated very soon

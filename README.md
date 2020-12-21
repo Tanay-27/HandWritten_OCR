@@ -28,8 +28,10 @@ Now comes the most difficult part ie. segmenting words into its constituent char
 This is difficult because no current available engines or library functions are able to segement at such resolutions and accuracy.
 Thus special attention needs to be given to this step.
 Here we have used Histogram Splitting to acheive character level segmentation.
+
 ![alt text](https://github.com/Tanay-27/HandWritten_OCR/blob/main/h.JPG)
 ![alt text](https://github.com/Tanay-27/HandWritten_OCR/blob/main/v.JPG)
+
 These are the sum of values as mentioned along row or column. It is clearly observed that for each line and each word in a line there is a clear drop and absence. 
 Using this the splits are made.
 #### Histogram Splitting

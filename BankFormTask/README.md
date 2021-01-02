@@ -11,6 +11,11 @@ For detailed explanation please read [Notebook](https://github.com/Tanay-27/Hand
 
 In this task 2 models have been used, they can be found at [MNIST](https://github.com/Tanay-27/ML_Hackathons-Projects/blob/master/Digit_Prediction/mnist.ipynb) and [HTR](https://www.kaggle.com/tanay27/handwritten-digit-classifier)
 
+Output pics - 
+![Checkboxes](https://github.com/Tanay-27/HandWritten_OCR/blob/main/BankFormTask/checks.JPG)
+![Text Input](https://github.com/Tanay-27/HandWritten_OCR/blob/main/BankFormTask/dates.JPG)
+
+
 #### For any queries kindly contact - 
 Tanay Shah 
 tanayshah027@gmail.com

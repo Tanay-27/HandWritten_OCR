@@ -15,8 +15,13 @@ Output pics -
 
 ![Checkboxes](https://github.com/Tanay-27/HandWritten_OCR/blob/main/BankFormTask/checks.JPG)
 
+This shows the items that were checked in sample form
+
 ![Text Input](https://github.com/Tanay-27/HandWritten_OCR/blob/main/BankFormTask/dates.JPG)
 
+This shows the dates appended
+
+Pl note, due to scanning issues I have had to take image from phone and use. This induced a lot of noise which has proved difficult to remove. Scanned pages work with pretty good accuracy on the OCR
 
 #### For any queries kindly contact - 
 Tanay Shah 
